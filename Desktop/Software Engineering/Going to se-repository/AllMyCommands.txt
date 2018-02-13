@@ -1,0 +1,247 @@
+Studies@AMG MINGW64 ~/Desktop/Software Engineering/Going to se-repository (master)
+$ history
+    1  git status
+    2  desktop
+    3  cd /desktop
+    4  git
+    5  git status
+    6  git
+    7  git status
+    8  git
+    9  git log
+   10  git
+   11  ls
+   12  cd desktop
+   13  ls
+   14  cd Software Engineering
+   15  cd /Software Engineering
+   16  cd /SoftwareEngineering
+   17  cd software engineering
+   18  cd ..
+   19  cd ..
+   20  git init
+   21  git status
+   22  clear
+   23  :q
+   24  clear
+   25  git init
+   26  cd ..
+   27  cd desktop
+   28  cd /Desktop
+   29  git status
+   30  :q
+   31  git status
+   32  clear
+   33  cd
+   34  cd ..
+   35  cd \Studies\Desktop\Software Engineering
+   36  cd Studies
+   37  cd ..
+   38  cd \Studies
+   39  cd ..
+   40  cd /Studies
+   41  cd ..
+   42  init git
+   43  git init
+   44  ls
+   45  cd Desktop/
+   46  ls
+   47  cd Software Engineering/
+   48  cd 'Software Engineering'/
+   49  ls
+   50  cd 'Going to se-repository'/
+   51  ls
+   52  git add '1.1 Getting Started - About Version Control.txt'
+   53  git status
+   54  ls
+   55  git add '3.1 Git Branching - Branches in a Nutshell.txt'
+   56  git status
+   57  ls
+   58  git add '5.`1 Distributed Git - Distributed Workflows.txt'
+   59  git add '5.1 Distributed Git - Distributed Workflows.txt'
+   60  git status
+   61  git status
+   62  git branch
+   63  git log
+   64  git show head
+   65  git show HEAD
+   66  git branch
+   67  git status
+   68  git reset  3.1 Git Branching - Branches in a Nutshell.txt
+   69  git reset '3.1 Git Branching - Branches in a Nutshell.txt'
+   70  git status
+   71  git checkout -- ' 3.1 Git Branching - Branches in a Nutshell.txt'
+   72  git checkout -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   73  ls
+   74  git chekout -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   75  git checkout -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   76  git --help
+   77  ls
+   78  git checkout-- '3.1 Git Branching - Branches in a Nutshell.txt'
+   79  git status
+   80  ls
+   81  git checkout -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   82* git checkout ~/Desktop/Software Engineering/ Going to se-repository/3.1 Git Branching - Branches in a Nutshell.txt'
+   83  git checkout -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   84  git checkout HEAD -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   85  git reset HEAD~1
+   86  git reflog
+   87  git reset
+   88  git status
+   89  ls
+   90  git add '1.1 Getting Started - About Version Control.txt'
+   91  git add '3.1 Git Branching - Branches in a Nutshell.txt'
+   92  git add '5.1 Distributed Git - Distributed Workflows'
+   93  git add '5.1 Distributed Git - Distributed Workflows.txt'
+   94  git status
+   95  ls
+   96  git checkout -- '3.1 Git Branching - Branches in a Nutshell.txt'
+   97  git status
+   98  ls
+   99  git rm --cached '3.1 Git Branching - Branches in a Nutshell.txt'
+  100  git status
+  101  git reset HEAD
+  102  ls
+  103  git add '3.1 Git Branching - Branches in a Nutshell.txt'
+  104  git status
+  105  ls
+  106  git commit '1.1 Getting Started - About Version Control.txt' -m 'Information about version control and why it is better than others'
+  107  git clone https://github.com/AyaGougou/se-project.git
+  108  ls
+  109  git log
+  110  git commit '1.1 Getting Started - About Version Control.txt' -m 'Information about version control and why it is better than others.'
+  111  git config --list
+  112  git config Aya.Gougou
+  113  git config Aya.Gougou "Aya Gougou"
+  114  git config --list
+  115  git commit '1.1 Getting Started - About Version Control.txt' -m 'Information about version control and why it is better than others.'
+  116  git config ayamgougou@gmail.com
+  117  git config ayagougou.ayamgougou@gmail.com
+  118  git config --list
+  119   git commit '1.1 Getting Started - About Version Control.txt' -m 'Information about version control and why it is better than others.'
+  120  git config --global ayagougou.36279471+AyaGougou@users.noreply.github.com "36279471+AyaGougou@users.noreply.github.com"
+  121   git commit '1.1 Getting Started - About Version Control.txt' -m 'Information about version control and why it is better than others.'
+  122  git config 36279471+AyaGougou@users.noreply.github.com
+  123  git config '36279471+AyaGougou@users.noreply.github.com'
+  124  git config --global user.email "36279471+AyaGougou@users.noreply.github.com"
+  125  git commit '1.1 Getting Started - About Version Control.txt' -m 'Information about version control and why it is better than others.'
+  126  ls
+  127  git status
+  128  git commit '3.1 Git Branching - Branches in a Nutshell.txt' -m 'Explaining briefly what branches are and how they function'
+  129  git status
+  130  git commit '5.1 Distributed Git - Distributed Workflows.txt' -m 'What distributed workflows are in Git and comparison with other workflows'
+  131  git push
+  132  git remote add origin https://github.com/AyaGougou/se-project.git
+  133  git remote -v
+  134  git push
+  135  git push origin master
+  136  git push origin master
+  137  git log
+  138  git pull
+  139  git show branch
+  140  git init
+  141  git show branch
+  142  git show-branch
+  143  git branch
+  144  git push
+  145  git log
+  146  git log
+  147  git log
+  148  git status
+  149  git log
+  150  git push
+  151  ls
+  152  cd se-project
+  153  ls
+  154  git push
+  155  cd ..
+  156  ls
+  157  git push
+  158  git push --set-upstream origin master
+  159  git pull
+  160  git branch -u upstream/Going to se-repository
+  161  git branch -u upstream/'Going to se-repository'
+  162  git branch -u upstream/'Desktop/Software Engineering/Going to se-repository'
+  163  git push -u
+  164  git fetch
+  165  git push
+  166  git push --set-upstream origin master
+  167  git pull
+  168  git branch --set-upstream-to=origin/'https://github.com/AyaGougou/se-project.git' master
+  169  ls
+  170  git commit -a -m 'Just saving my work, trying to align branches'
+  171  git branch
+  172  git fetch origin
+  173  git reset --hard origin/master
+  174  git push origin master
+  175  git pull
+  176  git push -f
+  177  git push --set-upstream origin master
+  178  git push
+  179  git push origin master
+  180  git push https://github.com/AyaGougou/se-project.git master
+  181  git remote add origin https://github.com/AyaGougou/se-project.git
+  182  git push origin master
+  183  git log
+  184  git status
+  185  ls
+  186  git checkout master
+  187  git reset --hard reset --hard
+  188  git reset --hard  06f18340d7d158c8341564045a9144bd30b2b75f (HEAD -> master)
+  189  git reset --hard  06f18340d7d158c8341564045a9144bd30b2b75f
+  190  ls
+  191  git push origin master
+  192  git fetch
+  193  ls
+  194  git log
+  195  git push origin master
+  196  git ls-remote
+  197  git ls
+  198  ls
+  199  git push origin master
+  200  git remote -v
+  201  git config user.email
+  202  git fetch origin
+  203  git branch
+  204  git merger origin master
+  205  git merge origin master
+  206  git pull origin master
+  207  git checkout branch
+  208  git branch
+  209  git branch -vv
+  210  git remote show
+  211  git checkout origin
+  212  git checkout master
+  213  git pull
+  214  git merge origin origin/master
+  215  git pull origin master --allow-unrelated-histories
+  216  git merge origin origin/master
+  217  git pull
+  218  git push origin master
+  219  vim README.md
+  220  git branch ReadMe
+  221  git branch
+  222  git checkout ReadMe
+  223  git branch
+  224  git add README.md
+  225  git log
+  226  ls
+  227  git init
+  228  git add README.md
+  229  ls
+  230  git status
+  231  vim README.md
+  232  ls
+  233  git status
+  234  git add README.md
+  235  git log
+  236  ls
+  237  git status
+  238  git commit -m 'commiting the README.md file with info about my github repository and its contents'
+  239  git status
+  240  git log
+  241  git checkout master
+  242  git branches
+  243  git branch
+  244  git merge ReadMe
+  245  history
